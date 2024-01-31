@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/armif/Downloads/PRJ - square_progetto_vivado/Progetto_Reti/Progetto_Reti.sim/sim_2/impl/func/xsim/project_tb_func_impl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'project_reti_logiche'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/armif/Downloads/tb_6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'project_tb'

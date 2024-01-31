@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Simulation Ended! TEST PASSATO (EXAMPLE)
+Time: 33900 ns  Iteration: 0  Process: /project_tb/testRoutine  File: C:/Users/armif/Downloads/tb_1.vhd
+$finish called at time : 33900 ns : File "C:/Users/armif/Downloads/tb_1.vhd" Line 382
